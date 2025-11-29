@@ -51,8 +51,8 @@ Tools for PDF extraction, Google Sheets API, data cleaning.
 
 ## 🧠 Current Interests
 - How AI reshapes editorial, PR, and cultural communication  
-- Predictive analytics for audience engagement  
-- Building better cross-cultural communication tools  
+- Analytics for audience engagement in museums and art events
+- Tools to enpower the art industury
 
 ---
 
