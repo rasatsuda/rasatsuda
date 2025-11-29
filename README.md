@@ -58,7 +58,7 @@ Tools for PDF extraction, Google Sheets API, data cleaning.
 
 ## 📫 Contact
 - Email: press@rasatsuda.com  
-- LinkedIn: [[linkedin.com/in/rasa-tsuda](https://www.linkedin.com/in/rasa-tsuda/)] 
+- LinkedIn: [linkedin.com/in/rasa-tsuda](https://www.linkedin.com/in/rasa-tsuda/) 
 - Website / [rasatsuda.com](https://rasatsuda.com/)
 
 Thanks for visiting my profile!
